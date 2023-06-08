@@ -1,5 +1,5 @@
 # Appointment-Booking-System
-# Application to book a slot
+
 
 ## Tech stack
 HTML
