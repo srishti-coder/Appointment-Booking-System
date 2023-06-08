@@ -1,16 +1,1 @@
-{
-  "name": "appointment_scheduler",
-  "version": "1.0.0",
-  "description": "Book n appointment, persist the data to firebase and receive a confirmation SMS",
-  "main": "script/server_messages_api.js",
-  "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
-  },
-  "keywords": [
-    "sms",
-    "firebase",
-    "node"
-  ],
-  "author": "Srishti Mishra",
-  "license": "ISC"
-}
+
